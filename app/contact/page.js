@@ -49,7 +49,7 @@ export default function ContactPage() {
         </h1>
 
         <p className="mt-4 text-lg">
-          We'd love to hear from you.
+          We&apos;d love to hear from you.
         </p>
       </section>
 

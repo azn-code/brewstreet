@@ -39,7 +39,7 @@ export default function AboutPage() {
 
             <p className="mt-6 text-gray-600 leading-8">
               BrewStreet was founded with one goal—to make premium coffee
-              accessible to everyone. Whether you're an espresso enthusiast or
+              accessible to everyone. Whether you&apos;re an espresso enthusiast or
               someone discovering specialty coffee for the first time, we
               carefully select every bean and brewing accessory to elevate your
               coffee experience.
